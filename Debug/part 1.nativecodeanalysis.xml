@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>35</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>83</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>145</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>157</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>171</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>190</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>217</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>229</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>243</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>257</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>261</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>64</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>120</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>134</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>158</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>191</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>230</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>244</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>AddInfo</FUNCTION>
+    <DECORATED>AddInfo</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>289</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>'fPtr' could be '0':  this does not adhere to the specification for the function 'fgetc'. See line 288 for an earlier location where this can occur</DESCRIPTION>
+    <FUNCTION>idcounter</FUNCTION>
+    <DECORATED>idcounter</DECORATED>
+    <FUNCLINE>279</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>280</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>281</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>283</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>284</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>285</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' may be NULL (Enter this branch)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>287</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' is an Input to 'feof' (declared at c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:161)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume '!feof(fPtr)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>289</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' is an Input to 'fgetc' (declared at c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:177)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>289</LINE>
+        <COLUMN>11</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'fPtr' should not be NULL, because this is not consistent with the SAL annotation on 'fgetc'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>293</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>'fPtr' could be '0':  this does not adhere to the specification for the function 'fclose'. See line 288 for an earlier location where this can occur</DESCRIPTION>
+    <FUNCTION>idcounter</FUNCTION>
+    <DECORATED>idcounter</DECORATED>
+    <FUNCLINE>279</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>280</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>281</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>283</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>284</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>285</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' may be NULL (Enter this branch)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>287</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' is an Input to 'feof' (declared at c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:161)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume '!feof(fPtr)' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>293</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' is an Input to 'fclose' (declared at c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:147)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>293</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'fPtr' should not be NULL, because this is not consistent with the SAL annotation on 'fclose'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>part 1.c</FILENAME>
+      <LINE>288</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6387</DEFECTCODE>
+    <DESCRIPTION>'fPtr' could be '0':  this does not adhere to the specification for the function 'feof'. </DESCRIPTION>
+    <FUNCTION>idcounter</FUNCTION>
+    <DECORATED>idcounter</DECORATED>
+    <FUNCLINE>279</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>280</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>281</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>283</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>284</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>285</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' may be NULL (Enter this branch)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>287</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'fPtr' is an Input to 'feof' (declared at c:\program files (x86)\windows kits\10\include\10.0.18362.0\ucrt\stdio.h:161)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Skip this loop, (assume '!feof(fPtr)' is false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>part 1.c</FILENAME>
+        <LINE>288</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'fPtr' should not be NULL, because this is not consistent with the SAL annotation on 'feof'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

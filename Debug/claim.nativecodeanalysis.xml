@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>claimMENU</FUNCTION>
+    <DECORATED>claimMENU</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>95</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>141</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>48</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) in call to 'printf' must be the address of a string. Actual type: 'int [100]'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>52</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>57</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>81</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>98</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>101</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>103</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>121</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>123</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>125</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>127</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>131</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>144</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>148</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>150</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>154</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>171</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>173</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>175</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>179</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'name'.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>45</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>46</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'fgets(line, 100, f1)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name' is an Input to 'strstr' (declared at c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.27.29110\include\vcruntime_string.h:82)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>String 'name' might not be zero-terminated.</DESCRIPTION>
+    <FUNCTION>annualclaim</FUNCTION>
+    <DECORATED>annualclaim</DECORATED>
+    <FUNCLINE>29</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>37</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>This expression may not zero-terminate 'name'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>41</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>45</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>46</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'fgets(line, 100, f1)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name' is an Input to 'strstr' (declared at c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.27.29110\include\vcruntime_string.h:82)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is required to be zero-terminated by a SAL annotation on 'strstr'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>276</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>328</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6319</DEFECTCODE>
+    <DESCRIPTION>Use of the comma-operator in a tested expression causes the left argument to be ignored when it has no side-effects.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>218</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>222</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6067</DEFECTCODE>
+    <DESCRIPTION>_Param_(2) in call to 'printf' must be the address of a string. Actual type: 'int [100]'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>226</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>229</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>231</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>233</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>235</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>253</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>255</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>257</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>259</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>263</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>279</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>282</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>284</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>286</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>288</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>305</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>307</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>309</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>311</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>315</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>331</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>335</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>337</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>339</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>341</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>359</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>361</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>363</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>365</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'scanf'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>369</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6273</DEFECTCODE>
+    <DESCRIPTION>Non-integer passed as _Param_(2) when an integer is required in call to 'printf' Actual type: 'int *':  if a pointer value is being passed, %p should be used.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>219</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Function gets appears with no prototype in scope.  Only limited analysis can be performed. Include the appropriate header or add a prototype. This warning also occurs if parameter or return types are omitted in a function definition.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>6054</DEFECTCODE>
+    <DESCRIPTION>String 'name' might not be zero-terminated.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>202</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>204</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>205</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>207</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>208</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>209</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>210</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>211</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>212</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>213</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>214</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>This expression may not zero-terminate 'name'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>215</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>216</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>217</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>218</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>219</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>220</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'fgets(line, 100, f1)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name' is an Input to 'strstr' (declared at c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.27.29110\include\vcruntime_string.h:82)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is required to be zero-terminated by a SAL annotation on 'strstr'</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+      <FILENAME>claim.c</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'name'.</DESCRIPTION>
+    <FUNCTION>lifeclaim</FUNCTION>
+    <DECORATED>lifeclaim</DECORATED>
+    <FUNCLINE>201</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>202</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>203</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>204</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>205</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>206</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>207</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>208</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>209</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>210</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>211</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>212</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>213</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>214</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>215</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>216</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>217</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>218</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>219</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>220</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Enter this loop, (assume 'fgets(line, 100, f1)')</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>25</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'name' is an Input to 'strstr' (declared at c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.27.29110\include\vcruntime_string.h:82)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Zee\OneDrive - Asia Pacific University\Desktop\Project6\source and header\</FILEPATH>
+        <FILENAME>claim.c</FILENAME>
+        <LINE>221</LINE>
+        <COLUMN>19</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'name' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>
